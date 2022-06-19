@@ -42,7 +42,7 @@ a {
   color: white;
 }
 /*for mobile phones*/
-@media only screen and (min-width: 340px) and (max-width: 600px) {
+@media only screen and (min-width: 340px) and (max-width: 768px) {
   body {
     background-image: linear-gradient(#ff9a9dd6, #ff9a9dd4),
       url("https://images.unsplash.com/photo-1648737965782-94fb1b30f768?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
